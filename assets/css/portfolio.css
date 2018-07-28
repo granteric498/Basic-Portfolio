@@ -76,7 +76,8 @@
     }
 
     .maintext {
-        padding: 0px 10px 900px 10px;
+        /* If there are too many items in portfolio, change padding */
+        padding: 0px 10px 1200px 10px;
         background-color: #ffffff;
         margin: 30px 250px 100px 250px;
     }
